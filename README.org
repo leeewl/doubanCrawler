@@ -1,7 +1,8 @@
 * 简介
     该爬虫用来从豆瓣小组爬信息，爬到的信息会写入sqlite数据库，对于数据库中没有存储的信息，
 会通过浏览器打开该网址。
-    可以再config.ini文件里设置以下内容：
+    
+** 可以在config.ini文件里设置以下内容：
 *** 豆瓣小组id(group_id_list)
 *** 关键词(key_search__world_list)
 *** 黑名单词(custom_black_list)
