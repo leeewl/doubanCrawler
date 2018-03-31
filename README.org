@@ -11,9 +11,9 @@
 
 * 依赖
 ** 需要安装的库
-beautifulSoup4
-sqlite3
-requests
+*** beautifulSoup4
+*** sqlite3
+*** requests
 ** 安装库
 *** pip install beautifulsoup4
 *** pip install sqlite3
