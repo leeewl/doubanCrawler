@@ -7,7 +7,7 @@
 *** 关键词(key_search__world_list)
 *** 黑名单词(custom_black_list)
 *** 帖子开始时间(start_time)
-*** 间隔时间(douban_sleep_time)，单位是秒，好不要小于1，小心豆瓣封ip
+*** 间隔时间(douban_sleep_time)，单位是秒，最好不要小于1，小心豆瓣封ip
 
 * 依赖
 ** 需要安装的库
