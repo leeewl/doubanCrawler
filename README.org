@@ -9,8 +9,8 @@
 *** 帖子开始时间(start_time)
 *** 间隔时间(douban_sleep_time)，单位是秒，最好不要小于1，小心豆瓣封ip
 
-* 依赖
-** 需要安装的库
+** 运行环境
+*** python 3.6.4
 *** beautifulSoup4
 *** sqlite3
 *** requests
